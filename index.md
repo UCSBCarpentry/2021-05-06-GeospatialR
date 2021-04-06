@@ -33,6 +33,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 {% comment %}
+This workshop is the prerequisite for taking our Intro to Geospatial R workshop on May 13 - 14
 {% endcomment %}
 
 
