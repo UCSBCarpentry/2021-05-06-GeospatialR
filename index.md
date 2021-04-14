@@ -387,7 +387,7 @@ please preview your site before committing, and make sure to run
   <li> Mac users should check their <a href="https://developer.apple.com/xcode/">Xcode</a> versions or install the update from the App Store (free)</li>
 </ul>
 
-   You can download the <a href="https://ndownloader.figshare.com/articles/2009586/versions/10">NEON dataset here</a>.
+   You can download the <a href="https://github.com/UCSBCarpentry/2021-05-06-IntroR/raw/gh-pages/data/IntroR_gapminder.zip">data used for the workshop here</a>.
 <br>
 
    In addition, you will need an up-to-date web browser like Chrome, Mozilla, or Microsoft Edge
