@@ -313,7 +313,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Survey</h2>
 <p>Please be sure to complete this survey after the workshop.</p>
-<p><a href="">Post-workshop Survey</a></p>
+<p><a href="https://forms.gle/6Hmgsmsbu8rAJNL18">Post-workshop Survey</a></p>
 
 <hr/>
 
