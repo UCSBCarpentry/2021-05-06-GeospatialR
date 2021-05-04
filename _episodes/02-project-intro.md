@@ -68,20 +68,20 @@ project.
 > 1. Click the "File" menu button, then "New Project".
 > 2. Click "New Directory".
 > 3. Click "Empty Project".
-> 4. Type in "r-geospatial" as the name of the directory.
+> 4. Type in "intro-r" as the name of the directory.
 > 5. Click the "Create Project" button.
 {: .challenge}
 
 A key advantage of an RStudio Project is that whenever we open this project in
   subsequent RStudio sessions our working directory will *always* be set to the
-  folder `r-geospatial`.
+  folder `intro-r`.
 Let's check our working directory by entering the following into the R console:
 
 ```r
 getwd()
 ```
 
-R should return `your/path/r-geospatial` as the working directory.
+R should return `your/path/intro-r` as the working directory.
 
 ## Best practices for project organization
 
