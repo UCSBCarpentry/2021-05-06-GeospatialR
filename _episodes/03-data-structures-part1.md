@@ -221,7 +221,7 @@ Load the new nordic data as `nordic_2`, and check what class of data we find in 
 
 
 ~~~
-nordic_2 <- read.csv("data/nordic-data-2.csv")
+nordic_2 <- read.csv("data/nordic-data-2.txt")
 class(nordic_2$lifeExp)
 ~~~
 {: .language-r}
