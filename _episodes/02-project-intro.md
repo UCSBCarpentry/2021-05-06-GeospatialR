@@ -156,10 +156,10 @@ Now we have a good directory structure we will now place/save our data files in 
 > 
 > OR download and un-zip [the files from this zip folder](https://github.com/UCSBCarpentry/2021-05-06-IntroR/raw/gh-pages/data/IntroR_gapminder.zip).
 > 
-> 2\. Make sure the files have the following names: 
-> - `nordic-data.csv`
-> - `nordic-data-2.csv`
-> - `gapminder_data.csv`
+> 2\. The files should have the following names: 
+> - `nordic-data.txt`
+> - `nordic-data-2.txt`
+> - `gapminder_data.txt`
 >
 > 3\. Save the files in the `data/` folder within your project.
 >
@@ -171,9 +171,9 @@ Once you have completed moving the data across to the new folder,
 
  ```
  data/
-    gapminder_data.csv
-    nordic-data.csv
-    nordic-data-2.csv
+    gapminder_data.txt
+    nordic-data.txt
+    nordic-data-2.txt
  ```
 
 
