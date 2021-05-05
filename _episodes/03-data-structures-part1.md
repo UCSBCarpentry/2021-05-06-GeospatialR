@@ -28,7 +28,7 @@ save this data as an object named `nordic`:
 
 
 ~~~
-nordic <- read.csv("data/nordic-data.csv")
+nordic <- read.csv("data/nordic-data.txt")
 ~~~
 {: .language-r}
 
